@@ -89,12 +89,25 @@
             "id": 1
         },
         {
-                "name": "car1",
-                "price": 1500,
-                "description": "miui",
-                "delivery": "07-12-2023",
-                "image": "https://gloimg.gbtcdn.com/soa/gb/item/6878391336429613056/16414/goods_thumb_220-v1/5f26bc001550.jpg",
-                "id": 2        
+            "name": "car1",
+            "price": 1500,
+            "description": "miui",
+            "delivery": "07-12-2023",
+            "image": "https://gloimg.gbtcdn.com/soa/gb/item/6878391336429613056/16414/goods_thumb_220-v1/5f26bc001550.jpg",
+            "id": 2        
         }
+    ],
+     "Books":[
+       {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false,
+        "id": 1
+      }
     ]
 }
